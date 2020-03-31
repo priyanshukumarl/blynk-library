@@ -78,6 +78,6 @@ void loop()
 
   // You can inject your own code or combine it with other sketches.
   // Check other examples on how to communicate with Blynk. Remember
-  // to avoid delay() function!
-}
+
+
 
